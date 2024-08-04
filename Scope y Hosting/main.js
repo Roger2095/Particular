@@ -17,4 +17,4 @@ console.log(a);
 
 //console.log(c);
 
-//solamente "var" es la unica variblae que se puede leer global en cambio "let" y "const", solamente a nivel local, dentro de las llaves
+//solamente "var" es la unica variable que se puede leer global en cambio "let" y "const", solamente a nivel local, dentro de las llaves
